@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="hint">Enter a messege</string>
+    <string name="send">Send a message</string>
+</resources>
